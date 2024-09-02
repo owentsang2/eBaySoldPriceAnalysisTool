@@ -1,4 +1,4 @@
-# eBaySoldPriceAnalysisTool
+# eBayPriceAnalysisTool
 
 This is a python script that provides data from eBay. It web scrapes ebay sold listings in the UK and saves the data into a .csv and prints data visuals for the user.
 
