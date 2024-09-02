@@ -27,3 +27,6 @@ Adjust filtering criteria (e.g., excluding faulty or broken items) in the parse 
 
 ## Acknowledgments
 BeautifulSoup and Seaborn for facilitating web scraping and data visualization.
+
+##Updates
+I have now added more code using the help of chatGPT to help push my data automatically into PostgreSQL, here I can do more advanced queries and manipulations of the data to get better insights!
